@@ -4,7 +4,9 @@ I love algorithms and have seen its potential to make the world a better place. 
 
 ![Profile views](https://gpvc.arturio.dev/Ramibha) 
 
-Skills: Python / Odoo / DevOps / JS / HTML / CSS :bowtie:
+Skills: Python / Odoo / Flask / Django / DevOps / JS / HTML / CSS :bowtie:
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramibha)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Hadooc 
 - 🌱 I’m currently learning DevOps, AI, GO :v:  :muscle: 
@@ -13,7 +15,6 @@ Skills: Python / Odoo / DevOps / JS / HTML / CSS :bowtie:
 - ⚡ Fun fact: :swimmer: :airplane: :horse_racing: :soccer: 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramibha)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
