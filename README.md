@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ramy
+### Hi there 👋, my name is Ramy Ben Hadj Ahmed
 #### I am Python/Odoo Developer
 I love algorithms and have seen its potential to make the world a better place. My objective is to always improve and actually apply it to solve the real world problems. 
 
@@ -19,12 +19,12 @@ Skills: Python / Odoo / DevOps / JS / HTML / CSS :bowtie:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ramibha)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ramibha&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Ramibha)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ramibha)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Ramibha)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Ramibha)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Ramibha)  
+![Profile views](https://gpvc.arturio.dev/Ramibha)  
