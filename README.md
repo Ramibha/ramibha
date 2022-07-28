@@ -2,6 +2,8 @@
 #### I am Python/Odoo Developer
 I love algorithms and have seen its potential to make the world a better place. My objective is to always improve and actually apply it to solve the real world problems. 
 
+![Profile views](https://gpvc.arturio.dev/Ramibha) 
+
 Skills: Python / Odoo / DevOps / JS / HTML / CSS :bowtie:
 
 - 🔭 I’m currently working on Hadooc 
@@ -10,13 +12,12 @@ Skills: Python / Odoo / DevOps / JS / HTML / CSS :bowtie:
 - 📫 How to reach me: [Linkedin](https://tn.linkedin.com/in/ramibha/) 
 - ⚡ Fun fact: :swimmer: :airplane: :horse_racing: :soccer: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true)   ![Profile views](https://gpvc.arturio.dev/Ramibha) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramibha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramibha)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha) ![GitHub metrics](https://metrics.lecoq.io/Ramibha) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ramibha)  
+ 
 
-![GitHub metrics](https://metrics.lecoq.io/Ramibha)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha)  
+ 
  
