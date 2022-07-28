@@ -14,7 +14,7 @@ Skills: Python / Odoo / Flask / Django / DevOps / JS / HTML / CSS :bowtie:
 - 📫 How to reach me: [Linkedin](https://tn.linkedin.com/in/ramibha/) 
 - ⚡ Fun fact: :swimmer: :airplane: :horse_racing: :soccer: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true&show_icons=true&theme=radical) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramibha&show_icons=true&show_icons=true&theme=radical) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramibha&show_icons=true&theme=radical) 
 
  
 
