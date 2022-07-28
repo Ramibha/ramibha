@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Ramy Ben Hadj Ahmed
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ramibha/)
 #### I am Python/Odoo Developer
 I love algorithms and have seen its potential to make the world a better place. My objective is to always improve and actually apply it to solve the real world problems. 
 
